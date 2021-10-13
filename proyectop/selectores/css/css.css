@@ -1,0 +1,48 @@
+#titulo{
+    color: teal;
+}
+
+strong{
+    color:red;
+
+}
+
+.destacado{
+    color: purple;
+}
+
+#subtitulo{
+    color: blue;
+}
+
+#propiedad{
+    color: red;
+}
+
+#lor{
+    color: blue;
+}
+#done{
+    color: green;
+}
+#lor2{
+    color: fuchsia;
+}
+span{
+    color: orange;
+}
+#oli{
+    color: olive;
+}
+
+#especial{
+    color: orange;
+    
+}
+
+table, tr, th, td {border:1px solid #000; border-collapse:collapse; padding:5px;}
+caption { color: blue; }
+td { color: green; }
+td strong { color: orange; }
+th { color: red; }
+th.especial { color: orange; }
